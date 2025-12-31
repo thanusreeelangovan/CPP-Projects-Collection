@@ -1,0 +1,8 @@
+{
+  "name": "C++ Portfolio ",
+  "description": "A high-end portfolio showcase for a foundational C++ developer, featuring CLI project breakdowns, interactive code analysis, and an AI-powered C++ mentor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
