@@ -21,3 +21,20 @@ Projects Included
 - Concepts demonstrated: Arrays, loops, functions, modular programming.
 
 ## Repository Structure
+
+cpp-cli-projects/
+│
+├── student-management/
+│ ├── main.cpp
+│ ├── .gitignore
+│ └── README.md
+│
+├── library-management/
+│ ├── main.cpp
+│ ├── .gitignore
+│ └── README.md
+│
+└── timetable-manager/
+├── main.cpp
+├── .gitignore
+└── README.md
