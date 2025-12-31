@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+C++ CLI Projects
 
-# Run and deploy your AI Studio app
+A collection of console-based C++ programs developed during the first year of programming.  
+These projects demonstrate core C++ concepts such as classes, file handling, arrays, loops, and modular design.
 
-This contains everything you need to run your app locally.
+Projects Included
 
-View your app in AI Studio: https://ai.studio/apps/drive/1viwU45MAiyfUQPwm5dOwK8wu85LZjHK7
+1. Student Management System
+- Manage student records using classes and file I/O.
+- Features: Add, view, edit, and delete student data.
+- Concepts demonstrated: Classes, structs, file handling, basic CRUD operations.
 
-## Run Locally
+2. Library Management System
+- Track books, borrowing, and returns.
+- Features: Add/remove books, search books, manage borrow/return transactions.
+- Concepts demonstrated: File handling, arrays/lists, loops, basic search algorithms.
 
-**Prerequisites:**  Node.js
+3. Timetable Manager
+- Create and manage class schedules.
+- Features: Add/view/update timetable entries.
+- Concepts demonstrated: Arrays, loops, functions, modular programming.
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Repository Structure
